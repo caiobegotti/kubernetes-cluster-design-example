@@ -6,7 +6,7 @@ TODO: split up major topics into separate markdown files.
 
 ## License
 
-Public domain.
+Public domain. Do not submit PRs or commit anything that is someone else property, only push/merge stuff created from scratch or that have public online references.
 
 ## Setup
 
