@@ -98,6 +98,14 @@ TODO: split up major topics into separate markdown files.
 
 #### Peirates
 
+### Troubleshooting
+
+#### Kubedebug
+
+#### Krew
+
+#### Common issues
+
 ### Security paranoia trade-off
 
 ## License
