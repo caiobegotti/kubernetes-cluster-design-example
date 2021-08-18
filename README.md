@@ -1,6 +1,6 @@
 # Kubernetes cluster design example
 
-This is set of examples and stacks part of a modern Kubernetes cluster design... but why this? Sometimes you do have plenty of operational Kubernetes knowledge but forgot to exercise coming up with a full-featured cluster in case your co-workers were hit by a bus. Sometimes you simply don't know all the possible components you could have in a cluster to make your life easier and a public design doc helps. Sometimes you are just really too opinionated and could contribute to a cluster design document to vent. It could even be all of this together so you can reference back to it in the future when you just can't remember what to do when spinning up a Kubernetes infrastructure as a SRE or a DevOps-ish engineer. SEO FTW.
+This is set of example manifests, code and stacks part of a modern Kubernetes cluster design... but why this? Sometimes you do have plenty of operational Kubernetes knowledge but forgot to exercise coming up with a full-featured cluster in case your co-workers were hit by a bus. Sometimes you simply don't know all the possible components you could have in a cluster to make your life easier and a public design doc helps. Sometimes you are just really too opinionated and could contribute to a cluster design document to vent. It could even be all of this together so you can reference back to it in the future when you just can't remember what to do when spinning up a Kubernetes infrastructure as a SRE or a DevOps-ish engineer. SEO FTW.
 
 TODO: split up major topics into separate markdown files.
 
