@@ -94,6 +94,10 @@ TODO: split up major topics into separate markdown files.
 
 #### Kubecost
 
+#### Kube-bench
+
+#### Peirates
+
 ### Security paranoia trade-off
 
 ## License
