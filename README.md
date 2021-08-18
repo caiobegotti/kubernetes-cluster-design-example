@@ -4,9 +4,13 @@ This is set of example manifests, code and stacks part of a modern Kubernetes cl
 
 TODO: split up major topics into separate markdown files.
 
+## License
+
+Public domain.
+
 ## Setup
 
-### Provider
+### Environment
 
 #### Cloud
 
@@ -107,7 +111,3 @@ TODO: split up major topics into separate markdown files.
 #### Krew
 
 #### Common issues
-
-## License
-
-Public domain.
