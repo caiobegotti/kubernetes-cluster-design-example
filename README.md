@@ -20,7 +20,11 @@ TODO: split up major topics into separate markdown files.
 
 #### Access and roles
 
-##### Kubectl
+##### SSO
+
+##### Teleport
+
+##### Service accounts
 
 ##### Auditing
 
