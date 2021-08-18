@@ -91,6 +91,8 @@ TODO: split up major topics into separate markdown files.
 
 ### Cool stuff nice to have
 
+#### Kubecost
+
 ### Security paranoia trade-off
 
 ## License
