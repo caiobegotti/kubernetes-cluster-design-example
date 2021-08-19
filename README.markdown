@@ -72,6 +72,8 @@ Only push/merge stuff created from scratch or that have public online references
 
 ##### Vault
 
+#### Storage
+
 #### Ingress
 
 ##### Certificates
