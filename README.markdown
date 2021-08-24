@@ -20,9 +20,13 @@ Only push/merge stuff created from scratch or that have public online references
 
 #### Cloud
 
+AWS
+
 ##### CAPI
 
 ##### Terraform
+
+Provider module
 
 #### On-premises
 
@@ -30,7 +34,11 @@ Only push/merge stuff created from scratch or that have public online references
 
 #### Access and roles
 
+RBAC-manager
+
 ##### SSO
+
+Okta-equivalent
 
 ##### Teleport
 
@@ -38,9 +46,15 @@ Only push/merge stuff created from scratch or that have public online references
 
 ##### Auditing
 
+Simple case without heavy logging
+
 #### Pod security policy
 
+Kyverno
+
 #### Global network policy
+
+Calico
 
 #### Admission controller
 
@@ -52,17 +66,27 @@ Only push/merge stuff created from scratch or that have public online references
 
 ##### Logs collector
 
+Fluentbit and processors
+
 ##### Logs aggregation
 
 ##### Logs alerting
+
+Grafana
 
 #### Monitoring
 
 ##### Metrics scraping
 
+Thanos
+
 ##### Metrics dashboards
 
+Prometheus-operator
+
 ##### Metrics alerting
+
+Grafana
 
 ##### Security
 
@@ -70,7 +94,11 @@ Only push/merge stuff created from scratch or that have public online references
 
 ##### Encrypted secrets
 
+Sealed secrets
+
 ##### Vault
+
+Injector
 
 #### Storage
 
@@ -88,6 +116,8 @@ Only push/merge stuff created from scratch or that have public online references
 
 ###### Traefik
 
+Middlewares
+
 #### Istio
 
 ##### Ingress north-south
@@ -97,6 +127,8 @@ Only push/merge stuff created from scratch or that have public online references
 ### Namespaced
 
 #### Security
+
+Policies
 
 #### Resource quotas
 
