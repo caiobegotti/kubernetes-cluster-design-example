@@ -38,7 +38,7 @@ RBAC-manager
 
 ##### SSO
 
-Okta-equivalent
+Keycloak
 
 ##### Teleport
 
