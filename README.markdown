@@ -124,6 +124,14 @@ Middlewares
 
 ##### mTLS east-west
 
+### CI/CD
+
+#### ArgoCD
+
+#### CI
+
+Kube-linter
+
 ### Namespaced
 
 #### Security
