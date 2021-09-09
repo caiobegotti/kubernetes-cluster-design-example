@@ -60,7 +60,11 @@ Calico
 
 #### Admission webhooks
 
+Specific spec requirements
+
 ##### Mutating webhooks
+
+Auto-fixing repositories URLs
 
 #### Logging
 
@@ -69,6 +73,8 @@ Calico
 Fluentbit and processors
 
 ##### Logs aggregation
+
+Loki et al
 
 ##### Logs alerting
 
@@ -130,7 +136,7 @@ Middlewares
 
 #### CI
 
-Kube-linter
+Kube-linter et al
 
 ### Namespaced
 
