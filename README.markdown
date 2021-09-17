@@ -54,7 +54,7 @@ Kyverno
 
 #### Global network policy
 
-Calico
+Cilium
 
 #### Admission controller
 
